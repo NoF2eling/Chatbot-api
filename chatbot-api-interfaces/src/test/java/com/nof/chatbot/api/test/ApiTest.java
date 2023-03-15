@@ -6,4 +6,5 @@ package com.nof.chatbot.api.test;
 */
 
 public class ApiTest {
+
 }
